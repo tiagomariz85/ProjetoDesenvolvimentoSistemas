@@ -2,12 +2,15 @@
 
 Atividade Continua 05 criação site CSS
 
-Home Page
+Home Page > Diomar
 
-Lista de Cursos
+Lista de Cursos > Alessandro
 
-Detalhe de Curso
+Detalhe de Curso > Tiago
 
-Disciplina
+Disciplina > Tiago
 
-Noticias
+Noticias > Caio
+
+Plano de Fundo Preto 
+Então faremos de uma "Faculdade"
