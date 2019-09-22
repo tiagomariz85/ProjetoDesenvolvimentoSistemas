@@ -34,7 +34,26 @@ h1{
     font-size: 30px;
     color: rgb(202, 202, 212);
 }
-
+html{
+	height: 100%;
+}
+body {
+	text-align:left;
+	background: #000;
+	margin:0;
+	padding:0;
+	height:100%;
+}
+* {
+	list-style:none; 
+	padding:0px;
+	margin:0px;
+}
+#all{
+	height:100%;
+	width:100%;
+	margin:auto;
+}
 
 
 
